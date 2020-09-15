@@ -1,5 +1,5 @@
 # National_ID_Reader
-Getting a digital ID from the national ID through the Telegram bot. Requires 4 trained models:
+Getting a digital ID information from the national (Kazakhstan) ID card using the Telegram bot and PyTorch. Requires 4 trained models:
 - IDclassification.pt
 - IDregression.pt
 - BackROI.pt
