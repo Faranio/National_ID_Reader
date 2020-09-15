@@ -1,5 +1,9 @@
 # National_ID_Reader
-Getting a digital ID from the national ID through the Telegram bot
+Getting a digital ID from the national ID through the Telegram bot. Requires 4 trained models:
+- IDclassification.pt
+- IDregression.pt
+- BackROI.pt
+- FrontROI.pt
 
 Files and their corresponding functions:
 - ID.py - PyTorch dataset of ID cards
