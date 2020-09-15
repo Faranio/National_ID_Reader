@@ -7,3 +7,4 @@ Files and their corresponding functions:
 - ROI.py - PyTorch dataset of regions of interest (ROI) in ID cards
 - telegramBot.py - script that runs the Telegram Bot that receives images of ID cards
 - utils.py - additional methods used in the project.
+- Result.json - resultant file that shows regions on interest in Russian language.
